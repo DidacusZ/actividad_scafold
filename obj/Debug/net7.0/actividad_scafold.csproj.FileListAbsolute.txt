@@ -1,0 +1,14 @@
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\bin\Debug\net7.0\actividad_scafold.exe
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\bin\Debug\net7.0\actividad_scafold.deps.json
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\bin\Debug\net7.0\actividad_scafold.runtimeconfig.json
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\bin\Debug\net7.0\actividad_scafold.dll
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\bin\Debug\net7.0\actividad_scafold.pdb
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\obj\Debug\net7.0\actividad_scafold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\obj\Debug\net7.0\actividad_scafold.AssemblyInfoInputs.cache
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\obj\Debug\net7.0\actividad_scafold.AssemblyInfo.cs
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\obj\Debug\net7.0\actividad_scafold.csproj.CoreCompileInputs.cache
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\obj\Debug\net7.0\actividad_scafold.dll
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\obj\Debug\net7.0\refint\actividad_scafold.dll
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\obj\Debug\net7.0\actividad_scafold.pdb
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\obj\Debug\net7.0\actividad_scafold.genruntimeconfig.cache
+C:\Users\Altair\Desktop\clase\C#\actividad_scafold\obj\Debug\net7.0\ref\actividad_scafold.dll
